@@ -1,6 +1,9 @@
 # Vansh-Bhatnagar
 # 💫 About Me:
-I'm currently learning 
+I'm a passionate developer currently learning **Advanced Backend Patterns** and **System Design**.
+
+* 🌱 I’m currently learning ...
+* 📫 How to reach me: vanshbhatnagar2808@gmail.com
 
 
 ## 🌐 Socials:
