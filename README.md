@@ -77,7 +77,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Vansh140507&theme=radical&hide_border=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh140507&theme=radical&hide_border=true" width="49%" />
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </p>
