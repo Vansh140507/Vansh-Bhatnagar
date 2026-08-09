@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech IoT & Cybersecurity with Blockchain | CGC Jhanjeri | Building real stuff with code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Python+Enthusiast;React+%7C+HTML+%7C+CSS+%7C+JavaScript;IoT+%26+Cybersecurity+Student;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Python+Enthusiast;React+%7C+Node.js+%7C+Full+Stack+Dev;IoT+%26+Cybersecurity+Student;DSA+in+C%2B%2B+%7C+Day+by+Day+%F0%9F%94%A5;Computer+Networking+%7C+Going+Deep+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,11 +10,21 @@
 ## 💫 About Me
 
 - 🎓 **B.Tech** in IoT & Cybersecurity with Blockchain Technology — **CGC Jhanjeri, Mohali**
-- 📈 **SGPA: 8.85** in 1st Semester (IKGPTU)
-- 🔥 Member of **Google Firebase Studio Developer Community**
+- 📈 **SGPA: 8.85** (Sem 1) | **8.22** (Sem 2) — IKGPTU
+- 🌍 **Member** — Google Developer Community (GDC)
+- 🔥 **Member** — Google Firebase Studio Developer Community
 - ☁️ **Google Cloud Arcade** participant
-- 🌱 Currently learning **React.js**, **Node.js** and **Cloud Deployment**
-- ⚡ Fun fact: I debug better with chai ☕
+- 🌱 Currently learning **DSA in C++** and **Computer Networking**
+- 💼 Built & deployed a **live e-commerce site** with Razorpay payments in 1st year
+- ⚡ Fun fact: I debug better with coffee ☕
+
+---
+
+## 🔨 Currently Building
+
+- 📚 **DSA in C++** — Solving problems daily (Coder Army playlist) — Pattern Printing → Arrays → Sorting
+- 🌐 **Computer Networking** — Deep diving into protocols, OSI model, TCP/IP
+- 🛒 **IR Punjabi Jutti** — Ongoing feature additions to live e-commerce client project
 
 ---
 
@@ -22,13 +32,13 @@
 
 | 🚀 Project | 💡 Description | 🛠️ Tech | 🔗 Link |
 |-----------|--------------|---------|--------|
+| 🛍️ IR Punjabi Jutti | Live e-commerce site with Razorpay payments, Firebase auth & cart system | React, Node.js, MongoDB, Firebase, Razorpay | [View →](https://irpunjabijutti.com) |
+| 📈 Crypto Tracker | Real-time cryptocurrency tracker with Redux state management | React, Redux, API | [View →](https://github.com/Vansh140507/crypto-tracker-react-redux) |
+| 🏋️ SlimSync BMI Calculator | Clean BMI calculator with health category feedback | React | [View →](https://github.com/Vansh140507/slimsync-bmi-calculator) |
 | 🔍 GitHub Profile Explorer | Discover & search GitHub profiles using GitHub REST API | React, JS, API | [View →](https://github.com/Vansh140507/github-profile-explorer) |
-| ✂️ Stone Paper Scissors | Classic game with score tracking built using Node.js | Node.js, JS | [View →](https://github.com/Vansh140507/stone-paper-scissors-js) |
-| 🔤 ASCII Converter | Convert text to ASCII codes and vice versa | C++ | [View →](https://github.com/Vansh140507/ascii-converter) |
-| 🎮 Number Guessing Game | Console-based guessing game with random number logic | C | [View →](https://github.com/Vansh140507/number-guessing-game-c) |
-| 🔐 Entropy Guard | Analyse password strength with detailed security feedback | Python | [View →](https://github.com/Vansh140507/entropy-guard) |
+| 🔐 Entropy Guard | Analyse password strength with detailed security feedback | Python | [View →](https://github.com/Vansh140509/entropy-guard) |
 | ⌨️ Typing Arena | Test and measure your typing speed in browser | HTML, CSS, JS | [View →](https://github.com/Vansh140507/typing-arena) |
-| 💱 CLI Currency Converter | Real-time currency conversion in terminal using live API | Python | [View →](https://github.com/Vansh140507/cli-currency-converter-python) |
+| 💱 CLI Currency Converter | Real-time currency conversion in terminal using live API | Python | [View →](https://github.com/Vansh140509/cli-currency-converter-python) |
 
 ---
 
@@ -42,44 +52,48 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-
 
 ### ☁️ Cloud & Tools
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **Member** — Google Firebase Studio Developer Community
+- 🌍 **Member** — Google Developer Community (GDC)
+- 🔥 **Member** — Google Firebase Studio Developer Community
 - ☁️ **Google Cloud Arcade** — Completed Labs including Serverless Apps with Firebase (GSP344)
-- 📊 **SGPA: 8.85** — 1st Semester, IKGPTU
+- 🤖 **TCS iON Career Edge** — AI Foundation Certified
+- 🧠 **Google Gemini QuizOff 2026** — Participant
+- 📊 **SGPA: 8.85** (Sem 1) | **8.22** (Sem 2) — IKGPTU
 - 🏅 **GitHub Achievements** — Pull Shark, Quickdraw
+- 🏆 **Unstop** — Active participant in hackathons & coding challenges
+- 💼 **Live Project** — Deployed real e-commerce site processing actual payments in 1st year
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh140507&theme=radical&hide_border=true" width="49%" />
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vansh140507&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </p>
 
@@ -90,6 +104,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-bhatnagar-4ba792370/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshbhatnagar2808@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vansh140507)
+[![Unstop](https://img.shields.io/badge/Unstop-4A154B?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/u/vanshbha83749)
 
 ---
 
